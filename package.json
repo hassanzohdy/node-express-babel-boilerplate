@@ -1,4 +1,6 @@
 {
+  "name": "node-express-babel-boilerplate",
+  "version": "1.0.0",
   "scripts": {
     "build": "babel src --out-dir dist",
     "serve": "babel-watch src/index.js"
