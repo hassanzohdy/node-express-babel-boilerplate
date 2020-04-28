@@ -1,6 +1,7 @@
 {
   "name": "node-express-babel-boilerplate",
   "version": "1.0.0",
+  "license": "ISC",
   "scripts": {
     "build": "babel src --out-dir dist",
     "serve": "babel-watch src/index.js"
